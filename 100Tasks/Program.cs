@@ -6,7 +6,7 @@ namespace _100Tasks
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worlssd!");
+            Console.WriteLine("Hello GIT!");
         }
     }
 }
