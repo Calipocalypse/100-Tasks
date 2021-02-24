@@ -9,7 +9,8 @@ namespace _100Tasks
             int timeNowInHours = DateTime.Now.Hour;
             Console.WriteLine("Good " + GetWelcomeWord(timeNowInHours) + ". Which program you want to run right now?");
             //_1_Name_Generator.Program.Run();
-            _2_Heads_Or_Tails.Program.Run();
+            //_2_Heads_Or_Tails.Program.Run();
+            _3_Temperature_Converter.Program.Run();
         }
 
         static string GetWelcomeWord(int hour)
