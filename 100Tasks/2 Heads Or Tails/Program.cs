@@ -8,7 +8,7 @@ namespace _100Tasks._2_Heads_Or_Tails
     {
         public static void Run()
         {
-            Console.Write("Heads or tails. Type h/t: ");
+            Console.Write("Heads or tails. Type h/t:  ");
             try
             {
                 string ht = Console.ReadLine();
